@@ -1,0 +1,63 @@
+header {
+  width: 600px;
+  height: 60px;
+  position: sticky;
+
+  width: 80%;
+}
+.right1 {
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: flex-end;
+}
+.right {
+  width: 80px;
+  height: auto;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  align-items: center;
+}
+.sect-a {
+  margin-right: 10px;
+  color: #000000;
+  width: 120;
+  height: 30;
+  margin-left: 8px;
+}
+
+.img01 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+.python {
+  width: 80px;
+  height: auto;
+  border-style: solid;
+  border-color: purple;
+  }
+ .datos{
+ width:650px;
+ height: auto;
+ border-color: purple;
+  }
+body {
+  background-image: url("./MySQL.png");
+  background-color: bisque;
+  background-repeat: no-repeat;
+  background-size: 300px 100px;
+}
+.code {
+  border-style: solid;
+  border-color: blue;
+}
+.caja{list-style-type: none;  }
+.ima{width: 650px;
+height: auto;}
+.text00{
+  text-align: justify;
+
+}
